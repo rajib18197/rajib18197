@@ -15,7 +15,6 @@ E-mail: rajib18197@gmail.com
 
 Skills:  REACT / JavaScript / HTML / CSS / SASS / Bootstrap 
 
-- 🔭 I’m currently working on this page. 
 - 💬 Ask me about CSS, JavaScript 
 - 📫 How to reach me: rajib18197@gmail.com 
 
