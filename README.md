@@ -2,16 +2,8 @@
 ### Front End Web Developer
 
 
-Hello there! It's Rajib Das (Raju). A Programmer and Front-end Developer with a great passion for creating beneficial things with code to efficiently generate great values in expeditiously around the world. Due to this, I am learning a broad area of technologies with deep care not perfunctory every single day.
+A Programmer and Front-end Developer with a great passion for creating beneficial things with code to efficiently generate great values in expeditiously around the world. Due to this, I am learning a broad area of technologies with deep care not perfunctory every single day.
 
-Also I am currently doing my undergraduate program in Computer Science and Engineering at Bangladesh University of Business and Technology (BUBT).
-
-My Competency includes in HTML, CSS, CSS Preprocessor (SASS/SCSS), CSS Architecture (BEM Methodology), JavaScript, ES6, Bootstrap & problem solver not only that but also willing to learn new technology as per need because I feel & believe an endless need to learn, to improve, to evolve.
-
-Tools: Command-line Interface (CLI), Git, GitHub, Chrome Dev Tool, VS Code.
-
-Besides that, I also like to read self-help Books.
-E-mail: rajib18197@gmail.com
 
 Skills:  REACT / JavaScript / HTML / CSS / SASS / Bootstrap 
 
