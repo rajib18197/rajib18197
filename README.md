@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Rajib Das
-#### Front End Web Developer
+# Hi there 👋, my name is Rajib Das
+### Front End Web Developer
 
 
 Hello there! It's Rajib Das (Raju). A Programmer and Front-end Developer with a great passion for creating beneficial things with code to efficiently generate great values in expeditiously around the world. Due to this, I am learning a broad area of technologies with deep care not perfunctory every single day.
