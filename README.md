@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rajib Das
 #### Front End Web Developer
-![Front End Web Developer]()
+
 
 Hello there! It's Rajib Das (Raju). A Programmer and Front-end Developer with a great passion for creating beneficial things with code to efficiently generate great values in expeditiously around the world. Due to this, I am learning a broad area of technologies with deep care not perfunctory every single day.
 
@@ -27,8 +27,6 @@ Skills:  REACT / JavaScript / HTML / CSS / SASS / Bootstrap
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajib18197&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajib18197)  
-
-![GitHub metrics](https://metrics.lecoq.io/rajib18197)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rajib18197)  
 
