@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rajib Das
 #### Front End Web Developer
-![Front End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front End Web Developer](https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#page=1&query=coding&position=2&from_view=search)
 
 Hello there! It's Rajib Das (Raju). A Programmer and Front-end Developer with a great passion for creating beneficial things with code to efficiently generate great values in expeditiously around the world. Due to this, I am learning a broad area of technologies with deep care not perfunctory every single day.
 
