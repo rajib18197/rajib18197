@@ -4,9 +4,6 @@
 
 A Programmer and Front-end Developer with a great passion for creating beneficial things with code to efficiently generate great values in expeditiously around the world. Due to this, I am learning a broad area of technologies with deep care not perfunctory every single day.
 
-
-Skills:  REACT / JavaScript / HTML / CSS / SASS / Bootstrap 
-
 - 💬 Ask me about CSS, JavaScript 
 - 📫 How to reach me: rajib18197@gmail.com 
 <h3 align="center">A passionate frontend developer from India</h3>
