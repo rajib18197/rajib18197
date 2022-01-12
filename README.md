@@ -4,7 +4,7 @@
 
 A Programmer with an immense passion for developing software. Due to this, I am learning a broad area of technologies with deep care not perfunctory, every single day.
 
-- 💬 Ask me about CSS, JavaScript, Node JS, React JS 
+- 💬 Ask me about CSS, JavaScript, Node JS
 - 📫 How to reach me: rajib18197@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
