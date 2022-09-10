@@ -1,10 +1,12 @@
-## Hello there, This is Rajib Das
-# JavaScript Developer
+# Hello there, I'm a JavaScript Developer!
 
 
 A Programmer with an immense passion for developing software. Due to this, I am learning a broad area of technologies with deep care not perfunctory, every single day.
 
-- 💬 Ask me about CSS, JavaScript, React JS
+- 🎓 Currently studying Computer Science and engineering (11th Semester) at Bangladesh University of Business and Technology (BUBT)
+- 💬 Commonly use: .js, .c, .html, .css .scss
+- 📖 Deeply passionate about JavaScript ecosystem
+- 📖 Currently I'm learning DS-Algo and OOP 
 - 📫 How to reach me: rajib18197@gmail.com 
 
 
