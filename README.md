@@ -11,8 +11,6 @@ Skills: JavaScript / REACT / React Query / Redux(+ Toolkit & Toolkit query) / St
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajib18197&show_icons=true&locale=en" alt="rajib18197" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajib18197&" alt="rajib18197" /></p>
 
 
