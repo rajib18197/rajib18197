@@ -1,4 +1,4 @@
-Hi, I'm a programmer with an immense love for building things with code BACKED UP BY TWO REAL ROCKS, SIMPLE AND USEFUL. I ceaselessly submerging myself in the JavaScript world mostly for contributing and building meaningful web applications.
+Hi, I'm a programmer with an immense love for code impactful solutions BACKED UP BY TWO REAL ROCKS, SIMPLE AND USEFUL. I ceaselessly submerging myself in the JavaScript world mostly for contributing and building meaningful web applications.
 
 Skills: JavaScript / REACT / React Query / Redux(+ Toolkit & Toolkit query) / Styled Components | CSS(+Tailwind CSS)
 
@@ -13,7 +13,6 @@ Skills: JavaScript / REACT / React Query / Redux(+ Toolkit & Toolkit query) / St
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajib18197&" alt="rajib18197" /></p>
 
 
 
