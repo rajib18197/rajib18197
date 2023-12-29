@@ -23,7 +23,7 @@ Greetings, I'm a programmer with an immense love for code impactful solutions BA
 ### Social Appearances:
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)(https://leetcode.com/rajib_zest/)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&url=https://leetcode.com/rajib_zest/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
