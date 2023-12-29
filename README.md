@@ -6,6 +6,7 @@ Skills: JavaScript / REACT / React Query / Redux(+ Toolkit & Toolkit query) / St
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/REDUX-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
 - 📖 Currently learning JavaScript and JavaScript related technologies specifically in the Front-end Engineering area alongside DS-Algo + solving problems in various platform (e.g. Leetcode) 
