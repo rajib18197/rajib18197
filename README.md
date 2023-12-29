@@ -10,13 +10,13 @@ Hi, I'm a programmer with an immense love for code impactful solutions BACKED UP
 
 - 📖 Currently learning JavaScript and JavaScript related technologies specifically in the Front-end Engineering area alongside DS-Algo + solving problems in various platform (e.g. Leetcode) 
 - 💬 Commonly use: .jsx, .js
-- 📫 How to reach me: rajib18197@gmail.com
-
+- 📫 How to reach me: rajib.rzb@gmail.com
+  
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
 
 
 
