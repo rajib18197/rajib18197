@@ -8,9 +8,11 @@ Hi, I'm a programmer with an immense love for code impactful solutions BACKED UP
 ![Styled Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-- 📖 Currently learning JavaScript and JavaScript related technologies specifically in the Front-end Engineering area alongside DS-Algo + solving problems in various platform (e.g. Leetcode) 
-- 💬 Commonly use: .jsx, .js
-- 📫 How to reach me: rajib.rzb@gmail.com
+- 📖 Currently learning JavaScript and JavaScript related technologies specifically in the Front-end Engineering area alongside DS-Algo and Computer Science related things 
+- 💻 Commonly use: .jsx, .js
+- 📈 Obsessed with learning & following my curiosity
+- ❤ Favourite Question: Are you willing to sprint when the distance is unknown?
+- 📫 Let’s win together 🥇. Reach me on: rajib.rzb@gmail.com
   
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
