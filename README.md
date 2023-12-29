@@ -22,7 +22,7 @@ Greetings, I'm a programmer with an immense love for code impactful solutions BA
 
 ### Social Appearances:
 
-![Linkedin](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frajuzest%2F&query=LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frajuzest%2F)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)(https://leetcode.com/rajib_zest/)
 
 
