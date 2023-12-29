@@ -1,9 +1,9 @@
 Hi, I'm a programmer with an immense love for code impactful solutions BACKED UP BY TWO REAL ROCKS, SIMPLE AND USEFUL. I ceaselessly submerging myself in the JavaScript world mostly for contributing and building meaningful web applications.
 
 Skills: JavaScript / REACT / React Query / Redux(+ Toolkit & Toolkit query) / Styled Components | CSS(+Tailwind CSS)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/REACT.JS-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/REDUX-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
