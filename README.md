@@ -29,7 +29,7 @@ Greetings, I'm a programmer with an immense love for code impactful solutions BA
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&hide=html,scss,css&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajib18197&hide=html,scss&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rajib18197" /></p>
 
 
 
