@@ -34,6 +34,6 @@ Greetings, I'm a programmer with an immense love for code impactful solutions BA
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajib18197)](https://github.com/rajib18197/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajib18197&&hide=html,scss)](https://github.com/rajib18197/github-readme-stats)
 
 
