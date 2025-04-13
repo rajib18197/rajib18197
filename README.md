@@ -18,7 +18,7 @@ Greetings, I'm a programmer with an immense love for code impactful solutions BA
 
 
 - 📖 Currently learning JavaScript and JavaScript related technologies specifically in the Front-end Engineering area alongside DS-Algo and Computer Science related things 
-- 💻 Commonly use: .tsx, .ts .cpp
+- 💻 Commonly use: .js, .tsx, .ts, .cpp
 - 📈 Obsessed with learning & following my curiosity
 - ❤ Favourite Question: Are you willing to sprint when the distance is unknown?
 - 📫 Let’s win together 🥇. Reach me on: rajib.rzb@gmail.com
