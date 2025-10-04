@@ -1,4 +1,4 @@
-Hi, I'm Rajib! I'm currently working as a Software Engineer @ Nexily where I typically build things with JavaScript.
+Hi, I'm Rajib! I'm currently working as a Software Engineer @ Nexily where I typically build things with JavaScript/TypeScript.
 
 🌱I Invest time and energy mostly on educating myself:
 - Database intricacies, REST APIs development, 
