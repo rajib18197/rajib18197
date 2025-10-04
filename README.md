@@ -1,4 +1,22 @@
-Greetings, I'm a programmer with an immense love for code impactful solutions BACKED UP BY TWO REAL ROCKS, SIMPLE AND USEFUL. I ceaselessly submerging myself in the JavaScript world mostly for contributing and building meaningful web applications.
+Hi, I'm Rajib! I'm currently working as a Software Engineer @ Nexily where I typically build things with JavaScript.
+
+🌱I Invest time and energy mostly on educating myself:
+- Database intricacies, REST APIs development, 
+- Data structures, Algorithms,
+- Pointers, OOP Design,
+- Functional Paradigm, State Management, 
+- Spring Animation, Styling web apps & Accessibility
+- feature rich and dynamic web apps
+
+📚 Commitment of the above deepening my relationships with these languages:
+- PostgreSQL + MongoDB
+- JavaScript / TypeScript
+- CSS, with the focus of tinkering it with modern JS context (Tailwind, Styled Components)
+- React JS + Next JS
+- React Query + Redux + Framer Motion + Zod + React Hook Form
+- Express JS
+
+Though I’m not working with these in my day-to-day job but to understand Pointers and OOP better I went through the learning materials of C, C++ & Java quite a bit on my initial days and constantly try to keep in touch with them for betterment.
 
 ### Skilled in:
 
@@ -13,15 +31,6 @@ Greetings, I'm a programmer with an immense love for code impactful solutions BA
 ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-- 📖 Currently learning JavaScript and JavaScript related technologies specifically in the Front-end Engineering area alongside DS-Algo and Computer Science related things 
-- 💻 Commonly use: .js, .tsx, .ts, .cpp
-- 📈 Obsessed with learning & following my curiosity
-- ❤ Favourite Question: Are you willing to sprint when the distance is unknown?
-- 📫 Let’s win together 🥇. Reach me on: rajib.rzb@gmail.com
 
 
 ### Social Appearances:
