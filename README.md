@@ -1,6 +1,6 @@
 Hi, I'm Rajib! I'm currently working as a Software Engineer @ Nexily where I typically build things with JavaScript/TypeScript.
 
-🌱I Invest time and energy mostly on educating myself:
+🌱 I Invest time and energy mostly on educating myself:
 - Database intricacies, REST APIs development, 
 - Data structures, Algorithms,
 - Pointers, OOP Design,
@@ -13,10 +13,10 @@ Hi, I'm Rajib! I'm currently working as a Software Engineer @ Nexily where I typ
 - JavaScript / TypeScript
 - CSS, with the focus of tinkering it with modern JS context (Tailwind, Styled Components)
 - React JS + Next JS
-- React Query + Redux + Framer Motion + Zod + React Hook Form
+- React Query + Redux + Framer Motion + animations with CSS & JS
 - Express JS
 
-Though I’m not working with these in my day-to-day job but to understand Pointers and OOP better I went through the learning materials of C, C++ & Java quite a bit on my initial days and constantly try to keep in touch with them for betterment.
+Though I’m not working with C/C++, Java in my day-to-day job but to understand Pointers, OOP and other low level things better I went through the learning materials of these languages quite a bit on my initial days and constantly try to keep in touch with them for betterment.
 
 ### Skilled in:
 
