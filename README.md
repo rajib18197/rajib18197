@@ -5,7 +5,7 @@ Hi, I'm Rajib! I'm currently working as a Software Engineer @ Nexily where I typ
 - Data structures, Algorithms,
 - Pointers, OOP Design,
 - Functional Paradigm, State Management, 
-- Spring Animation, Styling web apps & Accessibility
+- Spring Animation, Styling web apps & Accessible UI
 - feature rich and dynamic web apps
 
 📚 Commitment of the above deepening my relationships with these languages:
